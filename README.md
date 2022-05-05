@@ -1,6 +1,6 @@
 # Shuggaloaf's Simple NPC Generator
 
-A System Agnostic NPC Generator for use in Foundry VTT.
+A Simple, System Agnostic NPC Generator for use in Foundry VTT.
 
 There are other NPC Generators out there that offer much more robust features, including even creating an actor for you. My generator is not meant to compete with those. To me, those work great for pre-game use when you're creating more impactful NPCs
 
