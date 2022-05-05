@@ -21,10 +21,12 @@ The macro opens a dialog with options for several (not all) races/sexes. Here is
 # To Do List
 Note: These may be added at some point but I am in little hurry to do so. If anyone would like to provide me a list of names, or better yet, a JSON export of a FVTT table already setup for names, I'd gladly accept them and appreciate the help.
 
-Need to create name tables for the following:
-- Dragonborn
-- Orc
-- Tiefling
-- Others? (Goblin, etc.)
+1. Need to create name tables for the following:
+    - Dragonborn
+    - Orc (created, need to implement)
+    - Tiefling
+    - Others? (Goblin, etc.)
 
-Although I don't want actor creation to be a focus, I could see a case for a non-intrusive button within the chat message that when clicked would create an actor. Just for those times when the NPC does become more of a "regular". I do not believe this would be difficult, but need to look into it. Anyone willing to submit an example of code to do so, feel free to open an issue. 
+2. Although I don't want actor creation to be a focus, I could see a case for a non-intrusive button within the chat message that when clicked would create an actor. Just for those times when the NPC does become more of a "regular". I do not believe this would be difficult, but need to look into it. Anyone willing to submit an example of code to do so, feel free to open an issue. 
+
+3. Name and characteristic lists were scoured from all over the place and most combine numerous sources. Some tables have thousands of entries. As such there are bound to be errors/oddities that I haven't caught yet. Please open an issue if you notice anything. 
