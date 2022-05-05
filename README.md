@@ -26,3 +26,5 @@ Need to create name tables for the following:
 - Orc
 - Tiefling
 - Others? (Goblin, etc.)
+
+Although I don't want actor creation to be a focus, I could see a case for a non-intrusive button within the chat message that when clicked would create an actor. Just for those times when the NPC does become more of a "regular". I do not believe this would be difficult, but need to look into it. Anyone willing to submit an example of code to do so, feel free to open an issue. 
