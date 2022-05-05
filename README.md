@@ -18,6 +18,8 @@ The macro opens a dialog with options for several (not all) races/sexes. Here is
 
 &nbsp;
 
+Note: The "Professions" and "Quirks" buttons are to generate a few more options in case you didn't like the ones generated with the name/race/sex. 
+
 # To Do List
 Note: These may be added at some point but I am in little hurry to do so. If anyone would like to provide me a list of names, or better yet, a JSON export of a FVTT table already setup for names, I'd gladly accept them and appreciate the help.
 
