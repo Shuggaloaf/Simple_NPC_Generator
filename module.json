@@ -40,7 +40,7 @@
     "dependencies": [],
     "socket": true,
     "manifest": "https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/module.json",
-    "download": "https://github.com/Shuggaloaf/Simple_NPC_Generator/archive/refs/tags/v1.3.zip",
+    "download": "https://github.com/Shuggaloaf/Simple_NPC_Generator/archive/refs/tags/v1.4.zip",
     "protected": false,
     "coreTranslation": false
 }
