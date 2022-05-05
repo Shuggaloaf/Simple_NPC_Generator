@@ -1,0 +1,46 @@
+{
+    "name": "shuggaloafs-simple-npc-generator",
+    "title": "Shuggaloaf's Simple NPC Generator",
+    "description": "A simple NPC Generator. Displays a dialog with options for race/sex. Clicking an option outputs an NPC to chat that includes physical characteristics, profession, quirks and so on.",
+    "author": "Shuggaloaf",
+    "authors": [],
+    "url": "https://github.com/Shuggaloaf/NPCGen",
+    "flags": {},
+    "version": "v1.0",
+    "minimumCoreVersion": "8",
+    "compatibleCoreVersion": "9",
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "packs": [
+        {
+            "name": "shuggaloafs-simple-npc-generator",
+            "label": "Shuggaloaf's Simple NPC Generator",
+            "path": "packs/shuggaloafs-simple-npc-generator.db",
+            "private": false,
+            "entity": "RollTable"
+        },
+		{
+            "name": "shuggaloafs-sngmacro",
+            "label": "Shuggaloaf's SNG_Macro",
+            "path": "packs/shuggaloafs-sngmacro.db",
+            "private": false,
+            "entity": "Macro"
+        }
+		
+    ],
+    "system": [],
+    "dependencies": [],
+    "socket": true,
+    "manifest": "https://raw.githubusercontent.com/Shuggaloaf/NPCGen/main/module.json",
+    "download": "",
+    "protected": false,
+    "coreTranslation": false
+}
