@@ -2,8 +2,8 @@
 
 # UPDATED
 I will work on updating the readme more later, but for now there's a few big changes:
-1. Uncommon races have been added. Dragonborn, Tiefling, Goliath, Half-Orc, Goblin and Lizardfolk
-2. Bye Bye Tables. If you downloaded version 1.4.1 and prior, you may delete all the tables that were imported. All data is now within the macros themselves. 
+1. **Uncommon races have been added!** Dragonborn, Tiefling, Goliath, Half-Orc, Goblin and Lizardfolk
+2. **Bye Bye Tables!** If you downloaded version 1.4.1 and prior, you may delete all the tables that were imported. All data is now within the macros themselves. 
 3. Yes Macro*s*. I recognize that some folks do not play with uncommon races in their games and as such may not want/need them. So there is a macro for Common + Uncommon Races (`Simple NPC Generator`) and another for Common Only (`Simple NPC Generator (co)`). **ONLY IMPORT AND USE ONE OF THEM** 
 
 <hr>
