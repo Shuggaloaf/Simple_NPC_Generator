@@ -1,5 +1,12 @@
 # Shuggaloaf's Simple NPC Generator
 
+# UPDATED
+I will work on updating the readme more later, but for now there's a few big changes:
+1. Uncommon races have been added. Dragonborn, Tiefling, Goliath, Half-Orc, Goblin and Lizardfolk
+2. Bye Bye Tables. If you downloaded version 1.4.1 and prior, you may delete all the tables that were imported. All data is now within the macros themselves. 
+3. Yes Macro*s*. I recognize that some folks do not play with uncommon races in their games and as such may not want/need them. So there is a macro for Common + Uncommon Races (`Simple NPC Generator`) and another for Common Only (`Simple NPC Generator (co)`). **ONLY IMPORT AND USE ONE OF THEM** 
+
+<hr>
 A Simple, System Agnostic NPC Generator for use in Foundry VTT.
 
 There are other NPC Generators out there that offer much more robust features, including even creating an actor for you. My generator is not meant to compete with those. To me, those work great for pre-game use when you're creating more impactful NPCs
@@ -24,10 +31,10 @@ Note: The "Professions" and "Quirks" buttons are to generate a few more options 
 Note: These may be added at some point but I am in little hurry to do so. If anyone would like to provide me a list of names, or better yet, a JSON export of a FVTT table already setup for names, I'd gladly accept them and appreciate the help.
 
 1. Need to create name tables for the following:
-    - Dragonborn
-    - Orc (created, need to implement)
-    - Tiefling
-    - Others? (Goblin, etc.)
+    Done! - ~~Dragonborn~~
+    Done! - ~~Orc (created, need to implement)~~
+    Done! - ~~Tiefling~~
+    Done! (for now...) - ~~Others? (Goblin, etc.)~~
 
 2. Although I don't want actor creation to be a focus, I could see a case for a non-intrusive button within the chat message that when clicked would create an actor. Just for those times when the NPC does become more of a "regular". I do not believe this would be difficult, but need to look into it. Anyone willing to submit an example of code to do so, feel free to open an issue. 
 
