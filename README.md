@@ -23,6 +23,8 @@ The macro opens a dialog with options for several (not all) races/sexes. Here is
 
 <img src="https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/media/Capture-04.gif" width="50%"/>
 
+<img src="https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/media/Example.webm" width="50%"/>
+
 &nbsp;
 
 Note: The "Professions" and "Quirks" buttons are to generate a few more options in case you didn't like the ones generated with the name/race/sex. 
