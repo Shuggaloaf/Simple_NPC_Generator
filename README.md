@@ -21,9 +21,9 @@ Speaking of modules, you are probably like myself - way too many modules install
 
 The macro opens a dialog with options for several (not all) races/sexes. Here is a sample of how the macro works:
 
-<img src="https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/media/Capture-04.gif" width="50%"/>
+<img src="https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/media/Example 1.gif" width="65%"/>
 
-<img src="https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/media/Example.webm" width="50%"/>
+<img src="https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/media/Example 2.gif" width="65%"/>
 
 &nbsp;
 
