@@ -12,13 +12,6 @@
     "scripts": [],
     "esmodules": [],
     "styles": [],
-    "languages": [
-        {
-            "lang": "en",
-            "name": "English",
-            "path": "lang/en.json"
-        }
-    ],
     "packs": [
 	{
             "name": "shuggaloafs-sng-macros",
