@@ -8,7 +8,7 @@
     "flags": {},
     "version": "v3.0",
     "minimumCoreVersion": "8",
-    "compatibleCoreVersion": "10",
+    "compatibleCoreVersion": "11",
     "scripts": [],
     "esmodules": [],
     "styles": [],
@@ -26,7 +26,7 @@
     "dependencies": [],
     "socket": true,
     "manifest": "https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/module.json",
-    "download": "https://github.com/Shuggaloaf/Simple_NPC_Generator/archive/refs/tags/v3.0.zip",
+    "download": "https://github.com/Shuggaloaf/Simple_NPC_Generator/archive/refs/tags/v4.0.zip",
     "protected": false,
     "coreTranslation": false
 }
