@@ -1,7 +1,7 @@
 {
   "id": "shuggaloafs-simple-npc-generator",
   "title": "Shuggaloaf's Simple NPC Generator",
-  "version": "3.0.11",
+  "version": "v3.0.11",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
@@ -15,7 +15,7 @@
   ],
   "url": "https://github.com/Shuggaloaf/Simple_NPC_Generator",  
   "manifest": "https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/module.json",  
-  "download": "https://github.com/Shuggaloaf/Simple_NPC_Generator/archive/refs/tags/v3.0.11.zip",
+  "download": "https://github.com/Shuggaloaf/Simple_NPC_Generator/releases/download/v3.0.11/shuggaloafs-simple-npc-generator.zip",
   "packs": [
     {
       "label": "Shuggaloaf's SNG Macros",
