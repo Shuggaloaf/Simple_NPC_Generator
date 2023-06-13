@@ -23,11 +23,11 @@ The macro opens a dialog with options for several (not all) races/sexes. Here is
 
 **COMMON:**
 
-<img src="https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/media/Example 1.gif" width="65%"/>
+<img src="https://raw.githubusercontent.com/Shuggaloaf/ShuggaloafStorage/main/img/Example 1.gif" width="65%"/>
 
 **UNCOMMON:**
 
-<img src="https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/media/Example 2.gif" width="65%"/>
+<img src="https://raw.githubusercontent.com/Shuggaloaf/ShuggaloafStorage/main/img/Example 2.gif" width="65%"/>
 
 &nbsp;
 
