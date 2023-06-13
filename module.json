@@ -1,33 +1,30 @@
 {
-    "title": "Shuggaloaf's Simple NPC Generator",
-    "description": "A simple NPC Generator. Displays a dialog with options for race/sex. Clicking an option outputs an NPC to chat that includes physical characteristics, profession, quirks and so on.",
-    "version": "v4.0",
-    "scripts": [],
-    "languages": [],
-    "url": "https://github.com/Shuggaloaf/Simple_NPC_Generator",
-    "manifest": "https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/module.json",
-    "download": "https://github.com/Shuggaloaf/Simple_NPC_Generator/archive/refs/tags/v4.0.zip",
-    "id": "shuggaloafs-simple-npc-generator",
-    "authors": [{"Shuggaloaf"}],     
-    "compatibility": {
-      "minimum": "10",
-      "verified": "11",
-      "maximum": ""
+  "id": "shuggaloafs-simple-npc-generator",
+  "title": "Shuggaloaf's Simple NPC Generator",
+  "version": "4.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "description": "A simple NPC Generator. Displays a dialog with options for race/sex. Clicking an option outputs an NPC to chat that includes physical characteristics, profession, quirks and so on.",
+  "authors": [
+    {
+      "name": "Shuggaloaf",
+      "flags": {}
     }
-
-    "esmodules": [],
-    "styles": [],
-    "packs": [
-	{
-            "name": "shuggaloafs-sng-macros",
-            "label": "Shuggaloaf's SNG Macros",
-            "path": "packs/shuggaloafs-sng-macros.db",  
-	    "module": "shuggaloafs-simple-npc-generator",
-            "type": "Macro"
-        }
-		
-    ],
-    "system": [],
-    "dependencies": [],
-    "socket": true,
+  ],
+  "url": "https://github.com/Shuggaloaf/Simple_NPC_Generator",
+  "packs": [
+    {
+      "label": "Shuggaloaf's SNG Macros",
+      "name": "shuggaloafs-sng-macros",
+      "type": "Macro",
+      "path": "packs/shuggaloafs-sng-macros.db",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
 }
