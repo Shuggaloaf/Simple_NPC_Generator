@@ -15,7 +15,7 @@
   ],
   "url": "https://github.com/Shuggaloaf/Simple_NPC_Generator",  
   "manifest": "https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/module.json",  
-  "download": "https://github.com/Shuggaloaf/Simple_NPC_Generator/releases/download/v3.0.11/shuggaloafs-simple-npc-generator.zip",
+  "download": "https://github.com/Shuggaloaf/Simple_NPC_Generator/releases/download/v4.0.11/shuggaloafs-simple-npc-generator.zip",
   "packs": [
     {
       "label": "Shuggaloaf's SNG Macros",
