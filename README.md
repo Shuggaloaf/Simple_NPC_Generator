@@ -59,7 +59,7 @@ The Professions button is to generate a few more options in case you didn't like
 <br>(Note these newly added features only work with FVTT v10+)
 
 <h4>THEMES</h4>
-<p> A total of 10 Color Themes have been add, each with 2 versions for the chat message: a vivid coloring and a more subdued coloring. Giving a total of 20 different options.<br><br><i>Below are 2 examples of the new themes. Red in subdued and vivid styles, and the same for blue:</i></p>
+<p> A total of 10 Color Themes have been added, each with 2 versions for the chat message: a soft coloring and a more vivd coloring. Giving a total of 20 different options.<br><br><i>Below are 2 examples of the new themes. Red in soft and vivid styles, and the same for blue:</i></p>
 <img src="https://raw.githubusercontent.com/Shuggaloaf/ShuggaloafStorage/main/img/themeExamples.jpg" width="80%"/>
 
 
