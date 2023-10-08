@@ -2,7 +2,7 @@
 
 **A Simple, System Agnostic<sup>1</sup> NPC Generator for use in Foundry VTT.**
 
-I find that 95% of the time that I need a random NPC is during gameplay. I need that info quickly. I don't have time to stop the game for several minutes while I set options to create an NPC actor. And for most of those NPCs, I don't really want/need an actor anyway, they'll be forgotten 5 minutes after the players speak to them. I mostly just need a quick name, and a vague description, so I can keep the game going. If the NPC becomes impactful, I can make a more "permanent" NPC after the session.
+I find that 95% of the time that I need a random NPC is during gameplay. I need that info quickly. I don't have time to stop the game for several minutes while I set options for more elaborate NPC generators. For most of these NPCs I don't really want/need in-depth descriptions and backstories anyway, they'll be forgotten 5 minutes after the players speak to them. I mostly just need a quick name and a vague description so I can keep the game going. If the NPC becomes impactful, I can make a more "permanent" NPC after the session.
 
 ### What this module IS
 
