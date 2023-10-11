@@ -1,10 +1,4 @@
-<table>
-  <tr>
-    <td><img src ="https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/module.json"><br><img src="https://img.shields.io/badge/with_mod_version-3.0.11_or_higher-f56a10"></td>
-    <td><img src ="https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://github.com/Shuggaloaf/Simple_NPC_Generator/releases/download/v2.0.1/module.json"><br><img src="https://img.shields.io/badge/with_mod_version-2.0.1-f56a10"></td>    
-  <td><img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/total.svg"><br><img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/latest/shuggaloafs-simple-npc-generator.zip"> </td>
-  </tr>  
-</table> 
+<img src="https://img.shields.io/badge/Supported_Foundry_versions:-v0.8%20--%20v11-f56a10"> <img src="https://img.shields.io/badge/Latest_Mod_Version:-v4.0.11-f56a10"> <img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/total.svg"> <img src="https://img.shields.io/github/downloads-pre/Shuggaloaf/Simple_NPC_Generator/latest/total"> 
 
 
 # Shuggaloaf's Simple NPC Generator
