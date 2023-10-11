@@ -1,12 +1,9 @@
 <table>
   <tr>
-    <td><img src ="https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/module.json"></td>
-    <td><img src ="https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://github.com/Shuggaloaf/Simple_NPC_Generator/releases/download/v2.0.1/module.json"></td>    
-  </tr>
-  <tr>    
-    <td>with version 3.0.11 or higher</td>
-    <td>with version 2.0.1</td>
-  </tr>
+    <td><img src ="https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/module.json"><br><img src="https://img.shields.io/badge/with_mod_version-3.0.11_or_higher-f56a10"></td>
+    <td><img src ="https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://github.com/Shuggaloaf/Simple_NPC_Generator/releases/download/v2.0.1/module.json"><br><img src="https://img.shields.io/badge/with_mod_version-2.0.1-f56a10"></td>    
+  <td><img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/total.svg"><br><img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/latest/shuggaloafs-simple-npc-generator.zip"> </td>
+  </tr>  
 </table> 
 
 
@@ -104,11 +101,10 @@ Speaking of modules, you are probably like myself - way too many modules install
 1. I would like to add a non-intrusive button within the chat message that when clicked would add the NPC info to a specific Journal Entry. Currently (as of version 4.0.11), NPCs can be saved to a journal on an all-or-nothing basis but I would prefer a more on-demand approach. 
 2. Although I don't want actor creation to be a focus, I could see a case for a button within the chat message that when clicked would create an actor from the chat data. Just for those times when the NPC does become more of a "regular". I do not believe this would be difficult, but need to look into it. Anyone willing to submit an example of code to do so, feel free to open an issue.
 
-# &nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 * Included Icons were created on game-icons.net
 
-<hr/>
 
-<img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/total.svg"> <img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/latest/shuggaloafs-simple-npc-generator.zip"> 
+
