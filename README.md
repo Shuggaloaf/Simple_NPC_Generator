@@ -1,14 +1,14 @@
 <table>
   <tr>
-    <td><img src ="https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://github.com/Shuggaloaf/Simple_NPC_Generator/releases/download/v2.0.1/module.json"></td>
     <td><img src ="https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://raw.githubusercontent.com/Shuggaloaf/Simple_NPC_Generator/main/module.json"></td>
+    <td><img src ="https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://github.com/Shuggaloaf/Simple_NPC_Generator/releases/download/v2.0.1/module.json"></td>    
   </tr>
-  <tr>
-    <td>with version 2.0.1</td>
+  <tr>    
     <td>with version 3.0.11 or higher</td>
+    <td>with version 2.0.1</td>
   </tr>
-</table>
-   
+</table> 
+
 
 # Shuggaloaf's Simple NPC Generator
 
@@ -111,5 +111,4 @@ Speaking of modules, you are probably like myself - way too many modules install
 
 <hr/>
 
-<img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/latest/shuggaloafs-simple-npc-generator.zip"> <img src="https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fshuggaloafs-simple-npc-generator&colorB=4aa94a">
-
+<img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/total.svg"> <img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/latest/shuggaloafs-simple-npc-generator.zip"> 
