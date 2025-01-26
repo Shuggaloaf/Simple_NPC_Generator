@@ -1,5 +1,18 @@
 <img src="https://img.shields.io/badge/Supported_Foundry_versions:-v0.8%20--%20v11-f56a10"> <img src="https://img.shields.io/badge/Latest_Mod_Version:-v4.0.11-f56a10"> <img src="https://img.shields.io/github/downloads/Shuggaloaf/Simple_NPC_Generator/total.svg"> <img src="https://img.shields.io/github/downloads-pre/Shuggaloaf/Simple_NPC_Generator/latest/total"> 
 
+&nbsp;
+
+&nbsp;
+
+# **NOTE: THIS MODULE IS NOT UPDATED FOR V12. I AM HAPPY TO ACCEPT A PULL REQUEST MAKING IT COMPATIBLE (WITH NO OTHER FEATURES ADDED).** 
+
+# **OTHERWISE THE MODULE WHEN BE UPDATED WHEN I MOVE MY GAMES TO FVTT v12. I HAVE NO EXPECTED DATE FOR WHEN THIS WILL HAPPEN.**
+
+# **THIS MODULE IS ***NOT*** DEAD. I AM NOT LOOKING FOR ANYONE TO TAKE OVER DEVELOPMENT**
+
+&nbsp;
+
+&nbsp;
 
 # Shuggaloaf's Simple NPC Generator
 
