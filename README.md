@@ -12,6 +12,7 @@
 &nbsp;
 
 # Shuggaloaf's Simple NPC Generator
+** This tool does NOT use AI!**
 
 **A Simple, System Agnostic<sup>1</sup> NPC Generator for use in Foundry VTT.**
 
